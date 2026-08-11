@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix Remix LumusCards",
+  "description": "A premium, minimalist AI flashcard platform converting media into cards with an addictive RPG-style XP leveling system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
